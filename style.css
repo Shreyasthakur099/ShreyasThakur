@@ -450,3 +450,6 @@ header .intro-img{
     text-align: center;
     text-decoration: underline;
 }
+.contact-items a{
+    color: white;
+}
